@@ -21,27 +21,43 @@ This project is a comprehensive data analysis on vehicle specifications, fuel ef
 ## 🔍 Key Insights
 
 ### 🔥 Correlation Heatmap
+
 - CO2 emissions strongly correlate with fuel consumption metrics.
 - Engine size and cylinder count have a positive correlation with emissions.
 
+![image](https://github.com/user-attachments/assets/1f507c11-49f4-4756-a207-b1fb8ea0d561)
+
 ### 🌿 Emissions Analysis
+
 - **SUVs and Pickup Trucks** show the highest average CO2 emissions.
 - **Compact cars and Two-Seaters** tend to be more fuel-efficient and environmentally friendly.
 - **Hyundai Ioniq** and **Toyota Prius** are the most fuel-efficient models with the lowest emissions.
 
+![image](https://github.com/user-attachments/assets/e5868902-acb8-40f0-80b4-01a092be1788)
+
+
 ### ⛽ Fuel Type Impact
+
 - **Z (Regular gasoline)** and **X (Premium gasoline)** tend to emit more CO2 than **E (Ethanol)** or **D (Diesel)**, though distribution varies.
 - Hybrid and electric vehicles significantly reduce emissions.
+
+![image](https://github.com/user-attachments/assets/2d83f5e8-b7ec-4c9b-967d-fa3d9c240522)
 
 ### ⚙️ Transmission & Emissions
 - Continuously Variable Transmission (CVT) and 7-speed automatic transmissions show lower average emissions compared to standard automatic or manual transmissions.
 
+  ![image](https://github.com/user-attachments/assets/8bf189f9-52a2-4ca3-bcf0-06114d6af46f)
+  
 ### 🚗 Make-Specific Insights
 - Makes such as **Hyundai** and **Toyota** consistently lead in fuel efficiency and low emissions.
 - **Mercedes-Benz** and **Dodge** models appear more frequently in the higher CO2 emission range.
+- 
+![image](https://github.com/user-attachments/assets/141987e6-9855-4696-925d-2d1ced98cc59)
 
 ### 📈 CO2 vs Engine Size
+
 - There is a clear upward trend of emissions with larger engine sizes, especially in gasoline vehicles.
+![image](https://github.com/user-attachments/assets/86e19ef2-ac4e-4ddf-b937-397dc0e825c8)
 
 ## 📊 Top 10 Most Fuel-Efficient Models
 
@@ -57,6 +73,8 @@ This project is a comprehensive data analysis on vehicle specifications, fuel ef
 | TOYOTA   | PRIUS            | 63           | 105                    |
 | TOYOTA   | Corolla Hybrid   | 63           | 106                    |
 | TOYOTA   | PRIUS            | 63           | 104                    |
+
+![image](https://github.com/user-attachments/assets/f2a90ec2-1e38-4ac3-9aee-37e72bb85374)
 
 ## 💼 Policy Implications
 
